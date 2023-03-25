@@ -1,5 +1,7 @@
 #include <gtest/gtest.h>
 
+#include "test_solve_quadratic.hpp"
+
 int main(int argc, char *argv[])
 {
     ::testing::InitGoogleTest(&argc, argv);

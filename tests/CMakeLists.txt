@@ -15,6 +15,7 @@ set (TESTS
 include_directories(${PROJECT_NAME} PUBLIC ../app)
 
 set (EXT_HEADERS
+        ../app/solve_quadratic.hpp
         )
 
 set (EXT_SOURCES

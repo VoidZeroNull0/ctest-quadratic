@@ -11,6 +11,7 @@ set(SOURCES
         )
 
 set(HEADERS
+        solve_quadratic.hpp
         )
 
 add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})
